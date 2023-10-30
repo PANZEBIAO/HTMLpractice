@@ -1,0 +1,25 @@
+header {
+    background-color: #ffc0cb;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: end;
+    gap: 0 10px;
+}
+
+.last {
+    margin-right: 30px;
+}
+
+.blog-contens {
+    display: flex;
+    justify-content: center;
+    gap: 0 10px;
+    text-align: center;
+}
+
+.blog {
+    border: 1px black solid;
+}
