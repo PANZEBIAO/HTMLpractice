@@ -7,7 +7,7 @@ header {
     background-color: #fff5ee;
 }
 
-header ul li a:hover {
+a:hover {
     color: red;
 }
 
@@ -20,9 +20,6 @@ header ul {
 
 .blog-h1 {
     text-align: center;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     margin: 20px 0;
 }
 
